@@ -1,6 +1,6 @@
 # Bus stops
 
-<img align="right" width="300" src="./bus_stops.png">
+<img align="right" width="300" src="![bus_stops](https://user-images.githubusercontent.com/87291732/208292564-724324e0-d835-455d-87a1-a9a2b0e2f281.png)">
 
 A simple app for showing bus stops from file written in [Python](https://www.python.org) using the built-in [`tkinter`](https://docs.python.org/3/library/tkinter.html) library.
 
