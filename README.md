@@ -18,3 +18,5 @@ $ python bus_stops.py
 ```
 
 You can "move" to the next stop by pressing any key on the keyboard.
+
+© 2022 Faisal Khan, Presidency University
